@@ -3,3 +3,4 @@ test 1
 git fetch
 latest
 latest 2
+latest 3
