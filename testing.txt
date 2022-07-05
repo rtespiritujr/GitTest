@@ -1,6 +1,5 @@
 sample
 test
-<<<<<<< HEAD
-=======
-3
->>>>>>> 4b1adfc4ed6a33b91a8ffb8ed2a444844f61cbec
+
+
+test line 1
